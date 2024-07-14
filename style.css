@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 /* batekha */
-nav{
+/* nav{
     position: sticky;
     display: flex;
     justify-content: space-between;
@@ -43,9 +43,9 @@ nav .icon{
     display: flex;
     align-items: center;
     margin:10px;
-}
+} */
     /* 5laaaas 5lasnaa */
-section{
+/* section{
     display: flex;
 }
 section .back-ground{
@@ -86,9 +86,9 @@ section .button .momo{
 }
 section .button a{
     text-decoration: none;
-}
+} */
     /* 5laas section 1 */
-.section2{
+/* .section2{
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -133,9 +133,9 @@ section .button a{
 .section2 .div1 button:hover{
     color:white;
     background-color: black;
-}
+} */
     /* start section 3 */
-.section3{
+/* .section3{
     width:100%;
     justify-content: center;
 }
@@ -245,7 +245,7 @@ section .button a{
     top: 109px;
     margin-top: 20px;
     margin-right: 20px;
-}
+} */
 /* yousef */
 
 .sec-5 .div-1{
